@@ -5,8 +5,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/ArialClient">Arial Client</a>.</li>
-<li>🧐 Learning about <strong>algorithms</strong>, <strong>data science</strong>, and a bit of <strong>Data Structure!</strong>.</li>
+<li>🧐 Learning Swift, ElectronJS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/WatchingBridge">Github</a>.</li>
 </ul>
-<p><a target="_blank" href="https://lukas.dev">Read More</a></p>
+<p><a target="_blank" href="https://lukasdev.xyz">Read More</a></p>
 <p align="left">
