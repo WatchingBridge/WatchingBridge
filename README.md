@@ -14,7 +14,5 @@
 
 [![watchingbridge's github stats](https://github-readme-stats.vercel.app/api?username=watchingbridge&show_icons=true&theme=dark)](https://github.com/watchingbridge)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchingbridge&theme=dark)](https://github.com/watchingbridge)
-
 <p><a target="_blank" href="https://lukasdev.xyz">Read More</a></p>
 <p align="left">
