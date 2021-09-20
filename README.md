@@ -1,9 +1,9 @@
 
-<h2>Hey , I'm <a href="https://">lukas</a></h2>
+<h2>Hey , I'm >Lukas Salvatore Abela</a></h2>
 <p>I'm a swing, java, html developer
 </p><img align="right" src="" />
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/ArialClient">Arial Client</a>.</li>
+<li>🔭 I’m currently working on <a href="https://discord.gg/FeBUVxvcuT">Arial Client</a>.</li>
 <li>🧐 Learning C++</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/WatchingBridge">Github</a>.</li>
 </ul>
