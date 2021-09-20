@@ -1,6 +1,6 @@
 
 <h2>Hey, I'm Lukas Salvatore Abela</a></h2>
-<p>I'm a swing, java, html developer
+<p>I'm a swing, java, html dev apparently 
 </p><img align="right" src="" />
 <ul>
 <li>🔭 I’m currently working on <a href="https://discord.gg/FeBUVxvcuT">Arial Client</a>.</li>
