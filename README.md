@@ -2,8 +2,6 @@
 <h2>Hey , I'm <a href="https://">lukas</a></h2>
 <p>I'm a swing, java, html developer
 </p><img align="right" src="" />
-<p><a href="https://discord.gg/mpdhXuYp"><img src="https://img.shields.io/discord/736951354517356564?label=Discord&logo=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fpopular-services-brands-vol-2%2F512%2Fdiscord-512.png&style=for-the-badge" alt="Discord"></a></a></p>
-<h2>⚡️ Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/ArialClient">Arial Client</a>.</li>
 <li>🧐 Learning C++</strong>.</li>
@@ -13,6 +11,4 @@
 <br />
 
 [![watchingbridge's github stats](https://github-readme-stats.vercel.app/api?username=watchingbridge&show_icons=true&theme=dark)](https://github.com/watchingbridge)
-
-<p><a target="_blank" href="https://lukasdev.xyz">Read More</a></p>
 <p align="left">
