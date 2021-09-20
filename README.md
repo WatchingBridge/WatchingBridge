@@ -1,5 +1,5 @@
 
-<h2>Hey , I'm Lukas Salvatore Abela</a></h2>
+<h2>Hey, I'm Lukas Salvatore Abela</a></h2>
 <p>I'm a swing, java, html developer
 </p><img align="right" src="" />
 <ul>
