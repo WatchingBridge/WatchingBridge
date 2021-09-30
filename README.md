@@ -1,12 +1,10 @@
 
 <h2>Hey, I'm Lukas Salvatore Abela</a></h2>
-<p>I'm a swing, java, html dev apparently 
-</p><img align="right" src="" />
-<ul>
-<li>🔭 I’m currently working on <a href="https://discord.gg/FeBUVxvcuT">Arial Client</a>.</li>
-<li>🧐 Learning C++</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/WatchingBridge">Github</a>.</li>
-</ul>
+
+<p>block game cheating enthusiast
+  
+<p>Expert at Swing, Java, HTML + CSS
+<p>Amateur at C, C++
 
 <br />
 
