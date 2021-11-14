@@ -3,8 +3,7 @@
 
 <p>block game cheating enthusiast
   
-<p>Expert at Swing, Java, HTML + CSS
-<p>Amateur at C, C++
+<p>Expert at Swing, Java, ElectronJS
 
 <br />
 
